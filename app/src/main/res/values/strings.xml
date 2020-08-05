@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NavIC</string>
+    <string name="Open">NavIC</string>
+    <string name="Close">NavIC</string>
+    <string name="title_activity_light_vehicle_maps">Map</string>
+</resources>
